@@ -1,0 +1,3 @@
+Bonjour tout le monde (up, 3) ,comment allez-vous ?
+Je viens d'avoir 1A (hex) ans et mon frère en a 11 (bin) !
+LE CHAT dort (low, 3)  sur le canapé (cap, 6) .
